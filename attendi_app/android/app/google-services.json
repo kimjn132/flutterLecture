@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094359764954",
+    "project_id": "attendi-3b910",
+    "storage_bucket": "attendi-3b910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094359764954:android:0fd9f09fa45a1f4e0c7ae3",
+        "android_client_info": {
+          "package_name": "com.example.attendi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094359764954-3t19cv32rll5hfetfk75o06e1ap4nil9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkcZTHh6OsIvNHI0tEh8KlHSTdd9zS7OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094359764954-3t19cv32rll5hfetfk75o06e1ap4nil9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
